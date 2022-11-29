@@ -1,3 +1,5 @@
+--NOTE TO THE READER - THIS CODE WAS WRITTEN IN MICROSOFT SQL SERVER MANAGEMENT STUDIO, UTILIZING DATA TAKEN FROM https://ourworldindata.org/covid-deaths
+
 --SELECT *
 --FROM PortfolioProject..CovidDeaths
 --ORDER BY 3,4
